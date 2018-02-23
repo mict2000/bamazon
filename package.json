@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework for UCBX Coding Bootcamp",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mict2000/bamazon.git"
+  },
+  "keywords": [
+    "\"CLI",
+    "Storefront\"",
+    "\"Quiksilver",
+    "Bodega\"",
+    "\"CLI\"",
+    "\"Storefront\"",
+    "\"npm",
+    "inquirer\"",
+    "\"mysql\""
+  ],
+  "author": "Michael Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mict2000/bamazon/issues"
+  },
+  "homepage": "https://github.com/mict2000/bamazon#readme"
+}
