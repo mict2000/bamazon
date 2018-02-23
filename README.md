@@ -10,7 +10,7 @@ The customer interface allows the user to view the current inventory of the stor
 
 To run the customer interface please follow the steps below:
 
-Git clone git@github.com:mict2000/bamazon.git
-Navigate to the 'bamazon' folder
+Git clone https://github.com:mict2000/bamazon.git
+Navigate to the 'bamazon' folder on your computer
 Install npm inquirer and npm mysql
 In your terminal enter node bamazonCustomer.js
