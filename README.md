@@ -18,3 +18,17 @@ Navigate to the *bamazon* folder on your computer
 In your terminal run *npm install inquirer* **then** *npm install mysql* **then** *node bamazonCustomer.js*
 
 Follow prompts and buy, buy, buy!
+
+![Screen shot1](https://github.com/mict2000/bamazon/blob/master/public/assets/images/success.jpg?raw=true)
+success.jpg shows a successful transaction.
+
+
+![Screen shot1](https://github.com/mict2000/bamazon/blob/master/public/assets/images/wholenumber.jpg?raw=true)
+wholenumber.jpg displays the error the user would receive if they do not enter a whole number greater than zero when quantity is requested.
+
+![Screen shot1](https://github.com/mict2000/bamazon/blob/master/public/assets/images/quantityexceeded.jpg?raw=true)
+quantityexceeded.jpg shows what happens when a customer requests more items than are in stock.
+
+
+![Screen shot1](https://github.com/mict2000/bamazon/blob/master/public/assets/images/decimalpterror.jpg?raw=true)
+decimalpterror.jpg shows an error in displaying the purchase price total where the total is not rounded to the nearest cent.
